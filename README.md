@@ -28,7 +28,7 @@ Aquí iré subiendo mis proyectos de videojuegos 👇
 
 ## 📊 Estadísticas de GitHub
 
-![Tus stats](https://github-readme-stats.vercel.app/api?username=tommygilsanagustin-create&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommygilsanagustin-create&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommygilsanagustin-create&layout=compact&theme=tokyonight)
 
