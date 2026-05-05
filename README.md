@@ -1,16 +1,51 @@
-## Hi there 👋
+🎮 ¡Hola! Soy Tommy Gil Desarrollador de videojuegos
 
-<!--
-**tommygilsanagustin-create/tommygilsanagustin-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Especializado en Unity
+🚀 Actualmente creando proyectos de videojuegos
+📚 Aprendiendo Unreal Engine y ampliando mis skills
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador de videojuegos con foco en Unity, creando proyectos propios y mejorando constantemente como programador.
+Aunque suene raro para alguien de informática, soy bastante extrovertido 😄
+
+
+
+🔭 Ahora mismo: desarrollando videojuegos en Unity
+🌱 Aprendiendo: Unreal Engine
+💬 Skills: Principales de un programador (lógica, debugging, optimización, etc.)
+⚡ Fun fact: sí, hablo con gente en la vida real
+
+
+🛠️ Tecnologías:
+🎮 Unity
+🧩 C#
+🕹️ Unreal Engine (en progreso)
+💻 Programación general
+📌 Proyectos
+
+Aquí iré subiendo mis proyectos de videojuegos 👇
+
+## 📊 Estadísticas de GitHub
+
+![Tus stats](https://github-readme-stats.vercel.app/api?username=tommygilsanagustin-create&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommygilsanagustin-create&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Racha de contribuciones
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tommygilsanagustin-create&theme=tokyonight)
+
+---
+
+## 🌐 Conecta conmigo
+
+- 💼 LinkedIn: [tu perfil]
+- 🌍 Portfolio: [tu web]
+- 📫 Email: [tu email]
+
+---
+
+⭐️ Gracias por visitar mi perfil
