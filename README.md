@@ -42,9 +42,9 @@ Aquí iré subiendo mis proyectos de videojuegos 👇
 
 ## 🌐 Conecta conmigo
 
-- 💼 LinkedIn: [tu perfil]
+- 💼 LinkedIn: (https://www.linkedin.com/feed/)
 - 🌍 Portfolio: [tu web]
-- 📫 Email: [tu email]
+- 📫 Email: tommygilsanagustin@gmail.com
 
 ---
 
