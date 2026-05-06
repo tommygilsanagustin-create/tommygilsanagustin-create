@@ -26,12 +26,6 @@ Aunque suene raro para alguien de informática, soy bastante extrovertido 😄
 
 Aquí iré subiendo mis proyectos de videojuegos 👇
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommygilsanagustin-create&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommygilsanagustin-create&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🔥 Racha de contribuciones
@@ -42,8 +36,7 @@ Aquí iré subiendo mis proyectos de videojuegos 👇
 
 ## 🌐 Conecta conmigo
 
-- 💼 LinkedIn: (https://www.linkedin.com/feed/)
-- 🌍 Portfolio: [tu web]
+- 💼 LinkedIn: (https://www.linkedin.com/in/tommy-gil-san-agust%C3%ADn/)
 - 📫 Email: tommygilsanagustin@gmail.com
 
 ---
